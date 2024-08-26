@@ -35,38 +35,6 @@
 
 ---
 
-## 💼 Experience
-
-### Data Analyst @ STARDELITE
-*July 2023 – Present | Lagos, Nigeria*
-
-- Secured high-paying clients through data-driven solutions, boosting revenue.
-- Promoted female electoral participation and advocated for green technology initiatives.
-
-### Data Analyst @ Legend Empire
-*September 2020 – December 2023 | Lagos, Nigeria*
-
-- Boosted customer engagement by 15% and significantly increased revenue through strategic data analysis.
-- Enhanced stakeholder meetings by improving communication and decision-making.
-
-### Director of Youth Programs & Project Manager @ RMWW
-*May 2016 – Present | Warri, Nigeria*
-
-- Streamlined operations, fostering team bonding, and collaboration.
-- Achieved significant profit and revenue growth through strategic insights.
-
----
-
-## 🎓 Education
-
-**Business Administration**  
-*Nexford University, Washington, United States*
-
-- Developed professional conduct and stakeholder communication skills.
-- Enhanced analytical capabilities through quantitative methods, financial analysis, and marketing analytics coursework.
-
----
-
 ## 📈 Projects
 
 ### [Customer Segmentation](https://github.com/DanieltheAnalyst1/Sql-Projects/blob/main/Customer%20Segmentation.sql)
