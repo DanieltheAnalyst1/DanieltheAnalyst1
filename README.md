@@ -84,12 +84,6 @@ Assessed campaign performance across demographics to guide improvements for futu
 
 ---
 
-## 🏆 Awards
-
-- **Best Student** - Techstudio Academy (September 2023)
-
----
-
 ## 📫 Let's Connect!
 
 <p align="center">
