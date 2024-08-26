@@ -1,4 +1,4 @@
-
+<!-- GitHub Profile README -->
 
 <h1 align="center">Hi there, I'm Daniel Adesanya 👋</h1>
 
@@ -15,8 +15,12 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <a href="https://github.com/DanieltheAnalyst1/Python-Projects">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/DanieltheAnalyst1/Sql-Projects">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Data_Visualization-4CAF50?style=for-the-badge&logo=tableau&logoColor=white" />
@@ -69,21 +73,27 @@
 
 ## 📈 Projects
 
-### [Customer Segmentation](#)
+### [Customer Segmentation](https://github.com/DanieltheAnalyst1/Sql-Projects/blob/main/Customer%20Segmentation.sql)
 Analyzed Recency, Frequency, and Monetary (RFM) values to segment customers and optimize marketing strategies.
 
-### [Financial Data Analysis](#)
+### [Financial Data Analysis](https://github.com/DanieltheAnalyst1/Sql-Projects/blob/main/Financial%20Data%20Analysis.sql)
 Evaluated investment distributions across various avenues to highlight patterns and potential growth areas.
 
-### [Marketing Campaign Analysis](#)
+### [Marketing Campaign Analysis](https://github.com/DanieltheAnalyst1/Sql-Projects/blob/main/Marketing%20Campaign%20Analysis.sql)
 Assessed campaign performance across demographics to guide improvements for future strategies.
+
+---
+
+## 🏆 Awards
+
+- **Best Student** - Techstudio Academy (September 2023)
 
 ---
 
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel-adesanya-993a60235">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/danieltheanalyst1">
