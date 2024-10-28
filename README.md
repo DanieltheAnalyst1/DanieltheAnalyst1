@@ -40,7 +40,7 @@
 ### [Customer Segmentation](https://github.com/DanieltheAnalyst1/Customer_Segmentation-SQL)
 Analyzed Recency, Frequency, and Monetary (RFM) values to segment customers and optimize marketing strategies.
 
-### [Financial Data Analysis](https://github.com/DanieltheAnalyst1/Sql-Projects/blob/main/Financial%20Data%20Analysis.sql)
+### [Financial Data Analysis](https://github.com/DanieltheAnalyst1/Financial_Data_Analysis-SQL)
 Evaluated investment distributions across various avenues to highlight patterns and potential growth areas.
 
 ### [Marketing Campaign Analysis](https://github.com/DanieltheAnalyst1/Sql-Projects/blob/main/Marketing%20Campaign%20Analysis.sql)
